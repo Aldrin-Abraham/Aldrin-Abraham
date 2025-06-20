@@ -1,6 +1,7 @@
-<img align="right" src="https://github.com/user-attachments/assets/8b95fb26-cf1a-445b-900b-d25849c04c17" width="180"/>
+<img align="right" src="https://github.com/user-attachments/assets/8b95fb26-cf1a-445b-900b-d25849c04c17" width="210"/>
 
-### Hello I am Aldrin 👋
+![Git Banner](https://github.com/user-attachments/assets/3f4003c1-805d-4998-93f8-74d30199bc8a)
+
 ![](https://komarev.com/ghpvc/?username=aldrin-abraham)
 - 👀 I’m interested in innovative technology development, with a focus on advanced programming and solving complex problems through creative coding.  
 - 🌱 I’m currently studying Python, C, and Java, deepening my understanding of these languages and their applications.  
